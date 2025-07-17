@@ -1,8 +1,8 @@
 ## kakinatsu's fork of misskey
 
 This fork contains below:
-	Anatawa12's Vmimi Relay Timeline
-	changes of default reaction.
+- Anatawa12's Vmimi Relay Timeline
+- changes of default reaction.
 
 
 ## Vmimi Relay Timeline
