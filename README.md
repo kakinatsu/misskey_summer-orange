@@ -1,15 +1,9 @@
-# Anatawa12's fork of Misskey
+## kakinatsu's fork of misskey
 
-This is anatawa12's fork of Misskey.
+This fork contains below:
+	Anatawa12's Vmimi Relay Timeline
+	changes of default reaction.
 
-This fork is used for several purposes:
-
-- The repository for [vmimi-relay timeline] extension development. I'm the maintainer of the [vmimi-relay timeline].
-- The repository for writing pull-requests to the vmimi relay users. I'm usually sending pull requests to the vmimi relay users after each updates.
-- The repository for writing pull-requests to the upstream repository. I'm one of the contributors of the upstream repository.
-- The repository for writing pull-requests to the [misskey.niri.la]. I'm one of the maintainers of the [misskey.niri.la].
-
-This branch is the branch for releasing the Vmimi Relay Timeline extension.
 
 ## Vmimi Relay Timeline
 
